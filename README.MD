@@ -6,7 +6,7 @@ I have been coding for about 3 months now and already have a solid foundation. T
 
 ## What you'll find here:
 - **Projects**: All the work I've done as part of the Google Cybersecurity Professional Certificate course.
-- **Exercises**: Personal exercises I've done to strengthen my programming skills.
+- **Exercises**: Personal exercises I've done to strengthen my programming skills. (just a note that main is the excercises part of this repo there will be the main projects)
 
 *I will see you on the other side..~Michael Naim*
 
